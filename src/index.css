@@ -21,6 +21,7 @@ justify-content: center;
     border: black 3px solid;
     margin: 10px;
     cursor: pointer;
+    background-color: white;
    
     
 
@@ -40,6 +41,7 @@ justify-content: center;
    transition: 1s;
 }
 .name{
+    background-color: white;
     text-align: center;
     
 }
